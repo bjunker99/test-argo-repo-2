@@ -1,3 +1,4 @@
 server:
   deploymentAnnotations:
     bootstrapServer: "$TEST_SERVER_NAME"
+    teamsServer: "$TEST_SERVER_NAME"
