@@ -1,0 +1,2 @@
+configmapReload:
+  reloadUrl: http://$TEST_SERVER_NAME.postback.com
